@@ -2,6 +2,8 @@
 
 # Awesome Starkzap
 
+<img width="1280" height="640" alt="GitHub banenr" src="https://github.com/user-attachments/assets/27524ef8-9598-45f4-a4e7-a97385edc294" />
+
 ---
 
 *Curated list of projects using Starkzap SDK, Bitcoin in your app in minutes.*
